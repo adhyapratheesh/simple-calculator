@@ -13,3 +13,10 @@ It performs basic arithmetic operations and provides a smooth user experience.
 - Decimal support for floating-point calculations  
 - Easy-to-understand code structure for learning and customization
 
+  ## Demo
+
+Try the calculator live here:  
+[https://adhyapratheesh.github.io/simple-calculator/](https://adhyapratheesh.github.io/simple-calculator/)
+
+---
+
