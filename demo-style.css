@@ -1,3 +1,4 @@
+/* Reset and base styles */
 * {
     box-sizing: border-box;
     margin: 0;
@@ -78,6 +79,7 @@ main {
     transform: scale(1.05);
 }
 
+/* Clear and backspace */
 #clear,
 #backspace {
     background-color: #325eb1;
@@ -85,6 +87,7 @@ main {
     grid-column: span 2;
 }
 
+/* Operators */
 .calc-buttons .operators {
     background-color: #56b2e8;
     color: #0a0c1d;
